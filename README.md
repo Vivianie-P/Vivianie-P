@@ -1,10 +1,10 @@
-### Hey, I'm Vivianie 👋🏾
+# Hey, I'm Vivianie 👋🏾
 I'm a self-taught developer based in Portland, Oregon, and I'm fueled by the excitement of building web apps that expand my knowledge, benefit users, and make coding an enjoyable adventure!
 
 - Check out my [website](www.vivianieprice.com) to learn more about me
 - Explore my pinned projects
 
-  # 🧰 ToolBox 
+  ## 🧰 ToolBox 
 Frontend Development: React TypeScript Tailwind JavaScript HTML CSS
 
 Version Control: Git 
