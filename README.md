@@ -5,7 +5,7 @@ I'm a self-taught developer based in Portland, Oregon, and I'm fueled by the exc
 - Explore my pinned projects
 
 ## 🧰 ToolBox 
-Frontend Development: React TypeScript Tailwind JavaScript HTML CSS
+Frontend Development: '''React''' TypeScript Tailwind JavaScript HTML CSS
 
 Version Control: Git 
 
