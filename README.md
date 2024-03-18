@@ -4,7 +4,7 @@ I'm a self-taught developer based in Portland, Oregon, and I'm fueled by the exc
 - Check out my [website](www.vivianieprice.com) to learn more about me
 - Explore my pinned projects
 
-  ## 🧰 ToolBox 
+## 🧰 ToolBox 
 Frontend Development: React TypeScript Tailwind JavaScript HTML CSS
 
 Version Control: Git 
