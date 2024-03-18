@@ -16,7 +16,7 @@ Others: `Python`
 ## ✨ Fun Facts
 - My favorite color is blue.
 - I have a bachelor's in Psychology.
--As a kid, I wanted to be a fashion designer.
+- As a kid, I wanted to be a fashion designer.
 
 ## 📫 Contact
 For a quick response, DM me on [LinkednIn](https://www.linkedin.com/in/vivianie-price/).
