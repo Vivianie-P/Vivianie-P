@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hey, I'm Vivianie 👋🏾
+I'm a self-taught developer based in Portland, Oregon, and I'm fueled by the excitement of building web apps that expand my knowledge, benefit users, and make coding an enjoyable adventure!
 
-<!--
-**Vivianie-P/Vivianie-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Check out my [website](www.vivianieprice.com) to learn more about me
+- Explore my pinned projects
 
-Here are some ideas to get you started:
+  # 🧰 ToolBox 
+Frontend Development: React TypeScript Tailwind JavaScript HTML CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Version Control: Git 
+
+Backend Development: Node.js Vite
+
+Others: Python 
+
+✨ Fun Facts
+- My favorite color is blue.
+- I have a bachelor's in Psychology.
+-As a kid, I wanted to be a fashion designer.
+
+📫 Contact
+For a quick response, DM me on [LinkednIn](https://www.linkedin.com/in/vivianie-price/).
